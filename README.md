@@ -24,7 +24,7 @@ My correlation heatmap revealed one pair of features, ‘Type: Photo” and “T
 
 ## Model Data
 
-<a href="url"><img src="Images/model_performance.png" align="middle" height="125" width="250" ></a>
+<a href="url"><img src="Images/model_performance.png" align="middle" height="150" width="250" ></a>
 
 I first ran a Mean Dummy Regressor, which had a Testing RMSE of 958 and Testing MAE of 572. I ran 5 additional models, Linear Regression, Ridge Regression, Lasso Regression, Decision Tree Regression and Support Vector Regression, all of which modestly outperformed the Mean Dummy Regressor in both Testing RMSE and Testing MAE.  Support Vector Regression was the top performing model with a Testing RMSE of 772 and MAE of 431.
 
